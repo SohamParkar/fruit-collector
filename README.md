@@ -1,2 +1,2 @@
-# fruit-collector
-just 1 of my project devloped 5 yrs ago
+# PRO-C40-FRUIT-COLLECTOR---DEBUG---1
+PRO-C40: FRUIT COLLECTOR - DEBUG - 1(totally)
